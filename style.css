@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(184, 183, 183);
+}
+
+section#topo{
+    width: auto;
+    height: 1080px;
+    background-image: url('/img/fundo1.jpg');
+    
+    margin: 0px 0px 0px 0px;
+}
+
+img#perfil {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
